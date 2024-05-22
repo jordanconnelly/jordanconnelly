@@ -8,5 +8,5 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jordanconnelly/ticket-lifestyle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jordanconnelly/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jordanconnelly/azure-network-protocols)
   - [Building Intuition for DNS](https://github.com/jordanconnelly/DNS-Lifestyle)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jordanconnelly/azure-network-protocols)
