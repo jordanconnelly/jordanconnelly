@@ -10,3 +10,4 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jordanconnelly/configure-ad)
   - [Building Intuition for DNS](https://github.com/jordanconnelly/DNS-Lifestyle)
   - [Network File Shares and Permissions](https://github.com/jordanconnelly/Network-File-Shares-and-Permissions)
+  - [Performing Activities Using NSG's and Protocols](https://github.com/jordanconnelly/NSG-s-and-Inspecting-Network-Protocols)
