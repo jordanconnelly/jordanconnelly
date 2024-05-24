@@ -11,3 +11,4 @@
   - [Building Intuition for DNS](https://github.com/jordanconnelly/DNS-Lifestyle)
   - [Network File Shares and Permissions](https://github.com/jordanconnelly/Network-File-Shares-and-Permissions)
   - [Performing Activities Using NSG's and Protocols](https://github.com/jordanconnelly/NSG-s-and-Inspecting-Network-Protocols)
+  - [Setting Up a VPN and Exploring Usage](https://github.com/jordanconnelly/VPN-Setup-and-Usage)
